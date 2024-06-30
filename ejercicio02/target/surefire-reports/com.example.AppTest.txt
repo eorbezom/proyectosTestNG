@@ -1,0 +1,12 @@
+-------------------------------------------------------------------------------
+Test set: com.example.AppTest
+-------------------------------------------------------------------------------
+Tests run: 102, Failures: 2, Errors: 0, Skipped: 0, Time elapsed: 0.467 s <<< FAILURE! - in com.example.AppTest
+com.example.AppTest.testPasswordHastAtLeastOneLetter  Time elapsed: 0.004 s  <<< FAILURE!
+java.lang.AssertionError: expected [true] but found [false]
+	at com.example.AppTest.testPasswordHastAtLeastOneLetter(AppTest.java:67)
+
+com.example.AppTest.testPasswordHastAtLeastOneLetter  Time elapsed: 0.003 s  <<< FAILURE!
+java.lang.AssertionError: expected [true] but found [false]
+	at com.example.AppTest.testPasswordHastAtLeastOneLetter(AppTest.java:67)
+
